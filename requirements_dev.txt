@@ -5,7 +5,7 @@ watchdog==2.1.6
 flake8==4.0.1
 coverage==6.3.2
 tox==3.24.5
-Sphinx==3.5.4
+Sphinx==4.4.0
 twine==3.4.1
 Click==7.1.2
 pytest==6.2.3

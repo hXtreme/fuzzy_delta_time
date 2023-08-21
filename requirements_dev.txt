@@ -4,7 +4,7 @@ wheel==0.41.1
 watchdog==3.0.0
 flake8==6.1.0
 coverage==7.3.0
-tox==3.23.0
+tox==4.9.0
 Sphinx==3.5.4
 twine==3.4.1
 Click==7.1.2
